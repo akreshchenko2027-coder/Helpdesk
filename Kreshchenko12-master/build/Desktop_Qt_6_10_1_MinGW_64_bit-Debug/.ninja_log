@@ -1,0 +1,10 @@
+# ninja log v6
+3	951	7953165431648342	Kreshchenko12_autogen/timestamp	31979052618ea6e1
+3	951	7953165431648342	Kreshchenko12_autogen/mocs_compilation.cpp	31979052618ea6e1
+3	951	7953165431648342	F:/qtdz/Kreshchenko12/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Kreshchenko12_autogen/timestamp	31979052618ea6e1
+3	951	7953165431648342	F:/qtdz/Kreshchenko12/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Kreshchenko12_autogen/mocs_compilation.cpp	31979052618ea6e1
+1098	3666	7953165433555280	CMakeFiles/Kreshchenko12.dir/tickettablemodel.cpp.obj	5f9de746ed84f647
+1091	3679	7953165433485970	CMakeFiles/Kreshchenko12.dir/main.cpp.obj	e2cdb121de4064b8
+955	3895	7953165432118744	CMakeFiles/Kreshchenko12.dir/Kreshchenko12_autogen/mocs_compilation.cpp.obj	f10b9fae534b0597
+1095	4157	7953165433520105	CMakeFiles/Kreshchenko12.dir/mainwindow.cpp.obj	6d0da13d7b9ff83f
+4157	4951	7953165464138273	Kreshchenko12.exe	22c7177f0634b0da

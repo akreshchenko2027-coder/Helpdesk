@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+<class>MainWindow</class>
+<widget class="QMainWindow" name="MainWindow">
+ <property name="geometry">
+  <rect>
+   <x>0</x>
+   <y>0</y>
+   <width>700</width>
+   <height>400</height>
+  </rect>
+ </property>
+
+ <property name="windowTitle">
+  <string>TypingTrainer</string>
+ </property>
+
+ <widget class="QWidget" name="centralwidget">
+
+  <layout class="QVBoxLayout">
+
+   <item>
+    <layout class="QHBoxLayout">
+
+     <item>
+      <widget class="QLabel" name="timeLabel">
+       <property name="text">
+        <string>00:00</string>
+       </property>
+      </widget>
+     </item>
+
+     <item>
+      <widget class="QLabel" name="speedLabel">
+       <property name="text">
+        <string>0</string>
+       </property>
+      </widget>
+     </item>
+
+     <item>
+      <widget class="QLabel" name="accuracyLabel">
+       <property name="text">
+        <string>100%</string>
+       </property>
+      </widget>
+     </item>
+
+    </layout>
+   </item>
+
+   <item>
+    <widget class="QLabel" name="textLabel">
+     <property name="text">
+      <string>Typing Trainer</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="textFormat">
+      <enum>Qt::RichText</enum>
+     </property>
+     <property name="styleSheet">
+      <string>font-size:20px;</string>
+     </property>
+    </widget>
+   </item>
+
+  </layout>
+
+ </widget>
+
+ <widget class="QStatusBar" name="statusbar"/>
+</widget>
+<resources/>
+<connections/>
+</ui>

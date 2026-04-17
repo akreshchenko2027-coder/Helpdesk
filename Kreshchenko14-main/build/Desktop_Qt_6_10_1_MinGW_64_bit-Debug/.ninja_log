@@ -1,0 +1,19 @@
+# ninja log v6
+3	1289	7954525607272218	Helpdesk_autogen/timestamp	7704a51de3f89742
+5202	6391	7954525646847331	Helpdesk.exe	d3e18a15490eba4d
+3	1289	7954525607272218	Helpdesk_autogen/mocs_compilation.cpp	7704a51de3f89742
+1488	5061	7954525609704554	CMakeFiles/Helpdesk.dir/csvticketrepository.cpp.obj	3d75b6d5ed026a08
+1477	5201	7954525609591091	CMakeFiles/Helpdesk.dir/main.cpp.obj	315f8d1bc51197a7
+1484	4623	7954525609665512	CMakeFiles/Helpdesk.dir/requesttablemodel.cpp.obj	98c2357a70e31924
+1481	4810	7954525609631363	CMakeFiles/Helpdesk.dir/mainwindow.cpp.obj	d70a27b95ca00a6d
+1292	5202	7954525607743247	CMakeFiles/Helpdesk.dir/Helpdesk_autogen/mocs_compilation.cpp.obj	803b7c51dbf01b81
+97	1129	7956063578426383	Helpdesk_autogen/timestamp	2c4f7c0c7870861a
+97	1129	7956063578426383	Helpdesk_autogen/mocs_compilation.cpp	2c4f7c0c7870861a
+97	1129	7956063578426383	F:/qtdz/Kreshchenko14-main/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/timestamp	2c4f7c0c7870861a
+97	1129	7956063578426383	F:/qtdz/Kreshchenko14-main/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/mocs_compilation.cpp	2c4f7c0c7870861a
+1325	4329	7956063581638039	CMakeFiles/Helpdesk.dir/requesttablemodel.cpp.obj	2af54f80f53b2284
+1317	4584	7956063581563571	CMakeFiles/Helpdesk.dir/main.cpp.obj	e0c1e1745fa37e78
+1329	4596	7956063581678699	CMakeFiles/Helpdesk.dir/csvticketrepository.cpp.obj	97929424e76d7200
+1321	4689	7956063581603980	CMakeFiles/Helpdesk.dir/mainwindow.cpp.obj	408361c032fad994
+1130	4854	7956063579689683	CMakeFiles/Helpdesk.dir/Helpdesk_autogen/mocs_compilation.cpp.obj	21692582e6e66ff9
+4854	6005	7956063616932102	Helpdesk.exe	d3e18a15490eba4d
