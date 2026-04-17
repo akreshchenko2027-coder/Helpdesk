@@ -1,9 +1,0 @@
-# ninja log v6
-2	976	7951965890853781	Kreshchenko10_autogen/timestamp	637cd7b5724039a9
-2	976	7951965890853781	Kreshchenko10_autogen/mocs_compilation.cpp	637cd7b5724039a9
-2	976	7951965890853781	F:/qtdz/Kreshchenko10/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Kreshchenko10_autogen/timestamp	637cd7b5724039a9
-2	976	7951965890853781	F:/qtdz/Kreshchenko10/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Kreshchenko10_autogen/mocs_compilation.cpp	637cd7b5724039a9
-980	4146	7951965891327511	CMakeFiles/Kreshchenko10.dir/Kreshchenko10_autogen/mocs_compilation.cpp.obj	4a2be256fbe9a0ba
-1168	4155	7951965893206641	CMakeFiles/Kreshchenko10.dir/main.cpp.obj	5e74731f80dcb6b5
-1171	4272	7951965893236846	CMakeFiles/Kreshchenko10.dir/mainwindow.cpp.obj	c90012fa05ce449
-4272	5075	7951965924247770	Kreshchenko10.exe	7b9feff8c5bea970
