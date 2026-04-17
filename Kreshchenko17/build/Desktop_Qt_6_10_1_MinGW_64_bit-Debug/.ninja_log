@@ -1,0 +1,30 @@
+# ninja log v6
+<<<<<<< HEAD
+3	904	7981402257408482	PasswordManager_autogen/timestamp	26c28cd0448933fe
+3	904	7981402257408482	PasswordManager_autogen/mocs_compilation.cpp	26c28cd0448933fe
+3	904	7981402257408482	F:/qtdz/Kreshchenko17/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/PasswordManager_autogen/timestamp	26c28cd0448933fe
+3	904	7981402257408482	F:/qtdz/Kreshchenko17/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/PasswordManager_autogen/mocs_compilation.cpp	26c28cd0448933fe
+1103	4038	7981402259893676	CMakeFiles/PasswordManager.dir/databasemanager.cpp.obj	b3e5fc3d95043a7c
+1108	4164	7981402259934594	CMakeFiles/PasswordManager.dir/vaultrepository.cpp.obj	7d1daa4bad5ef484
+1096	4175	7981402259817049	CMakeFiles/PasswordManager.dir/main.cpp.obj	31386453bd1e343d
+909	4425	7981402257952383	CMakeFiles/PasswordManager.dir/PasswordManager_autogen/mocs_compilation.cpp.obj	cc03656ff40d6285
+1100	5039	7981402259857504	CMakeFiles/PasswordManager.dir/mainwindow.cpp.obj	685eff615c914214
+5040	5932	7981402299258328	PasswordManager.exe	48fdde4356738cef
+=======
+2	955	7981371244867070	PasswordManager_autogen/timestamp	cec8af6539075531
+2	955	7981371244867070	PasswordManager_autogen/mocs_compilation.cpp	cec8af6539075531
+2	955	7981371244867070	F:/qtdz/Kreshchenko16/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/PasswordManager_autogen/timestamp	cec8af6539075531
+2	955	7981371244867070	F:/qtdz/Kreshchenko16/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/PasswordManager_autogen/mocs_compilation.cpp	cec8af6539075531
+959	4078	7981371245391446	CMakeFiles/PasswordManager.dir/PasswordManager_autogen/mocs_compilation.cpp.obj	64c3540f1d6d0bc5
+1152	4335	7981371247306876	CMakeFiles/PasswordManager.dir/main.cpp.obj	7448f402e8a1945e
+1156	4343	7981371247351625	CMakeFiles/PasswordManager.dir/mainwindow.cpp.obj	2f60dfa1154e2008
+4344	5083	7981371279241354	PasswordManager.exe	751c9bb6d55a6aa2
+6	415	7981372127216945	PasswordManager_autogen/timestamp	cec8af6539075531
+6	415	7981372127216945	PasswordManager_autogen/mocs_compilation.cpp	cec8af6539075531
+6	415	7981372127216945	F:/qtdz/Kreshchenko16/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/PasswordManager_autogen/timestamp	cec8af6539075531
+6	415	7981372127216945	F:/qtdz/Kreshchenko16/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/PasswordManager_autogen/mocs_compilation.cpp	cec8af6539075531
+415	3406	7981372127652845	CMakeFiles/PasswordManager.dir/PasswordManager_autogen/mocs_compilation.cpp.obj	64c3540f1d6d0bc5
+590	3419	7981372129394730	CMakeFiles/PasswordManager.dir/main.cpp.obj	7448f402e8a1945e
+593	3867	7981372129434842	CMakeFiles/PasswordManager.dir/mainwindow.cpp.obj	2f60dfa1154e2008
+3868	4564	7981372162178614	PasswordManager.exe	751c9bb6d55a6aa2
+>>>>>>> 4b716b0887b5d060678cd516c62b27e26a2a9d69
