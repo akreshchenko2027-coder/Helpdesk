@@ -1,0 +1,12 @@
+build*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.user
+*.pro.user
+*.obj
+*.o
+*.exe
+*.dll
+*.autosave
